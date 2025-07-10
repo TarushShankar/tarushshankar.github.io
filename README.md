@@ -24,32 +24,33 @@ Android Studio, Xilinx Vivado, SQLite, MongoDB, Firebase, Git/GitHub, JSON, XML,
 ### Research Assistant — Data Analysis & Machine Learning  
 **COMBiN Research Lab, University of Alberta**  
 *June 2024 – Present*  
-- Developed a multilayer perceptron regressor for solar panel generation prediction, achieving an R² of 0.84.  
-- Cleaned and engineered features from over 1.1M time-series records, improving model performance and memory efficiency.  
+- Developed a Multilayer Perceptron Regressor (MLP) model for predicting solar panel generation, achieving an R² of 0.84.  
+- Processed, cleaned, and feature engineered over 1.1M time-series records to improve data quality and model suitability.  
 - Led efforts to anonymize sensitive datasets, ensuring compliance with privacy regulations while reducing turnaround time.  
 
 ### Research Assistant — Software Developer & Field Data Collection  
 **CityScan Technologies, University of Alberta**  
 *June 2024 – Dec 2024*  
-- Designed and implemented a command-line application to control GoPro cameras, reducing storage usage by 10%.  
-- Collected and processed LiDAR, GNSS, and IMU data across 50+ km of road infrastructure.  
-- Improved IMU tracking scripts to prevent data loss and eliminate redundant collection.  
+- Developed a hardware command-line application to control GoPro video recordings, optimizing storage by 10%.  
+- Collected and processed LiDAR, GNSS, and IMU data over 50+ km of roads for infrastructure assessment.  
+- Enhanced IMU data tracking scripts with human-readable output, preventing data loss and redundant collection.  
 
 ### Research Assistant — Data Analysis & Machine Learning  
 **University of Alberta**  
 *May 2023 – Aug 2023*  
-- Conducted research on applying machine learning for early detection of Type 2 Diabetes Mellitus and Diabetic Peripheral Neuropathy.  
-- Achieved 78.89% accuracy and 0.74 F1-score using a Random Forest classifier on preprocessed medical datasets.  
-- Developed a proof-of-concept ML algorithm by engineering domain-specific features and implementing standardized preprocessing.  
+- Conducted research on machine learning approaches for detecting Type 2 Diabetes Mellitus and Diabetic Peripheral Neuropathy.  
+- Achieved 78.89% accuracy and 0.74 F1-score with a Random Forest classifier on medical datasets.  
+- Delivered a proof-of-concept ML algorithm incorporating feature engineering and standardized preprocessing techniques.  
 
 ---
 
 ## 🖥️ Projects
 
 ### [FOODEGY — Android Meal Planner](https://github.com/CMPUT301F22T26/Foodegy)  
-Java, Firebase, XML  
-- Developed an Android application for meal planning, inventory tracking, and shopping list generation.  
-- Employed test-driven development with reusable unit tests and CI/CD pipelines through GitHub Actions.  
+Java, Firebase, XML, Agile Methodologies  
+- Developed and implemented the front end and back end of a Firebase-coupled Meal Planner (in a team of 6) using an iterative Scrum methodology on Android Studio with Java.  
+- Allowed users to add recipes to meal planners; utilizing that information, the app compiles a shopping list by comparing it to the existing inventory.  
+- Used the test-driven development methodology to create over 10+ reusable unit tests in Robotium integrated with GitHub Actions to assure quality and detect defects.  
 
 ### [MRI Motion Actuator](https://www.capstonedepot.live/post/5)  
 3D Printing, Kanban, Report Writing, Presentations  
