@@ -1,9 +1,10 @@
 title: "Tarush Shankar"
+logo: "/tarush_portfolio.jpeg"
 description: >
   Research Assistant @ COMBiN Research Lab UofA | prev-Software Developer @ CityScan Technologies
 
 url: "https://tarushshankar.github.io"
-baseurl: "" # Leave blank for root
+
 
 theme: jekyll-theme-minimal
 
