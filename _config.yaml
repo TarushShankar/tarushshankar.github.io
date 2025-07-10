@@ -1,0 +1,28 @@
+title: "Tarush Shankar"
+description: >
+  Research Assistant @ COMBiN Research Lab UofA | prev-Software Developer @ CityScan Technologies
+
+url: "https://tarushshankar.github.io"
+baseurl: "" # Leave blank for root
+
+theme: jekyll-theme-minimal
+
+# Optional social links
+author: "Tarush Shankar"
+email: "tarush@ualberta.ca"
+linkedin_username: "tarush-shankar"
+github_username: "TarushShankar"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude these from the build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
