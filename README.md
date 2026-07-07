@@ -84,7 +84,7 @@ I am especially interested in software engineering roles where systems need to b
 
 - Worked on machine learning workflows for detecting Type 2 Diabetes Mellitus and Diabetic Peripheral Neuropathy.
 - Standardized preprocessing pipelines for open-source medical datasets.
-- Trained and evaluated classification models, with the best Random Forest model achieving 78.89% accuracy and a 0.74 F1-score.
+- Trained and evaluated classification models, with the best model, Random Forest, achieving 78.89% accuracy and a 0.74 F1-score.
 
 ---
 
